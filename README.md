@@ -332,3 +332,13 @@ Mostrar segundoMayor
 Mostrar segundoMenor
 
 FinAlgoritmo
+
+# Análisis de Complejidad
+
+# Complejidad en tiempo
+
+tiempo O(n)
+
+# Complejidad en espacio
+
+espacio O(1)
